@@ -56,6 +56,7 @@
                           <xs:element type="xs:string" name="name"/>
                           <xs:element type="xs:float" name="efficiencyRating"/>
                           <xs:element type="xs:byte" name="enduranceRating"/>
+                          <xs:element type="xs:bool" name="makesgoodfood"/>
                         </xs:sequence>
                       </xs:complexType>
                     </xs:element>
