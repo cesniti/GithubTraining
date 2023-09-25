@@ -1,4 +1,5 @@
-# GithubTraining
+# GithubTraining with changed contents
+
 A test repository for the Github training organised by the CESNI Secretariat
 
 
