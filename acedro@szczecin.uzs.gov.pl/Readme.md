@@ -36,3 +36,6 @@ Rules of access of the repository are the following :
 - No merging into the current feature branches
 - However, anybody can “create” features branches and submit pull request to merge them into the development branch (this is controlled by the CESNI/TI secretariat)
 
+
+I made the change by Notepad++
+
