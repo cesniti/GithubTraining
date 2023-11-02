@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?> changed for test purposes
 <Catalogue xmlns="http://ienc.openecdis.org" xsi:schemaLocation="http://ienc.openecdis.org IENC_FC_21.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Header edition="2.5.1" title="IENC Feature Catalogue" product="IENC" language="en" date="2021-04-16" />
   <Scope>Features, attributes, enumerations and feature-attribute bindings for the use in Inland ENCs </Scope>
