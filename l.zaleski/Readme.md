@@ -1,5 +1,5 @@
 # GithubTraining
-A test repository for the Github training organised by the CESNI Secretariat
+A test repository for the awesome Github training organised by the CESNI Secretariat
 
 
 ## How to Contribute ? 
