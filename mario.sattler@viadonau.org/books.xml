@@ -125,4 +125,11 @@
       <publish_date>2024-10-19</publish_date>
       <description>The bible of Inland navigation</description>
    </book>
+<book id="bk666">
+      <author>Iron, Maiden</author>
+      <title>The number of the beast</title>
+      <genre>Music</genre>
+      <price>666.66</price>
+      <publish_date>2025-06-04</publish_date>
+      <description>For a boost in happiness, please read this book!</description>
 </catalog>
