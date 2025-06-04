@@ -121,8 +121,16 @@
       <author>CESNI</author>
       <title>ES-RIS 2025</title>
       <genre>IT</genre>
-      <price>0.00</price>
+      <price>666.00</price>
       <publish_date>2024-10-19</publish_date>
-      <description>The bible of Inland navigation</description>
+      <description>The bible of Inland navigation - merge conflict?</description>
+   </book>
+         <book id="bk113could">
+      <author>CESNI</author>
+      <title>ES-RIS 2025</title>
+      <genre>IT</genre>
+      <price>666.00</price>
+      <publish_date>2024-10-19</publish_date>
+      <description>It could be the bible of Inland navigation</description>
    </book>
 </catalog>
